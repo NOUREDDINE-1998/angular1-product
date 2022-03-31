@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "MOUSE",
+      "price": "65",
+      "quantity": 788,
+      "available": true,
+      "selected": true
+    },
+    {
+      "id": 3,
+      "name": "computer",
+      "price": "650",
+      "quantity": 88,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "USB",
+      "price": "15",
+      "quantity": 8,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "smartPhone",
+      "price": "5000",
+      "quantity": "1",
+      "selected": false,
+      "available": true,
+      "id": 5
+    }
+  ]
+}
