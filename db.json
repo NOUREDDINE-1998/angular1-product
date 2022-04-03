@@ -13,7 +13,7 @@
       "name": "computer",
       "price": "650",
       "quantity": 88,
-      "selected": false,
+      "selected": true,
       "available": false
     },
     {
