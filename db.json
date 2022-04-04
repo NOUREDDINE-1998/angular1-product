@@ -6,31 +6,23 @@
       "price": "65",
       "quantity": 788,
       "available": true,
-      "selected": true
-    },
-    {
-      "id": 3,
-      "name": "computer",
-      "price": "650",
-      "quantity": 88,
-      "selected": true,
-      "available": false
+      "selected": false
     },
     {
       "id": 4,
       "name": "USB",
       "price": "15",
       "quantity": 8,
-      "selected": true,
+      "selected": false,
       "available": false
     },
     {
+      "id": 5,
       "name": "smartPhone",
       "price": "5000",
-      "quantity": "1",
-      "selected": false,
+      "quantity": "122",
       "available": true,
-      "id": 5
+      "selected": true
     }
   ]
 }
